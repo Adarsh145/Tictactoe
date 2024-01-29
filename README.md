@@ -1,2 +1,3 @@
 # Tictactoe
-Simple Tictactoe game, Interface based in java
+It is a simple multiplayer Tictactoe Game written in java and can used terminally.
+
